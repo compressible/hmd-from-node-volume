@@ -21,7 +21,7 @@
 #include <vector>
 #include <string>
 
-//#include <hmdfs.h>
+#include <hmdfs.h>
 using namespace std;
 
 //------------------------------------------------------------------------------------------
